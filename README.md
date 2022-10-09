@@ -24,7 +24,7 @@ This collection provides a list of educational resources for Software Engineers.
 
 <img src="https://image.flaticon.com/icons/png/128/2621/2621230.png" height="60px">
 
-> If you think there is a resource which you think others would benefit on, fork, and your changes, and make a pull request!
+> If you think there is a resource which you think others would benefit on, fork, add your changes, and make a pull request!
 
 ### Here are just 5 from our huge range...
 
@@ -42,7 +42,7 @@ This collection provides a list of educational resources for Software Engineers.
 
 <img src="https://image.flaticon.com/icons/png/128/234/234073.png" height="40px"/>
 
-> If you think there is a resource which you think others would benefit on, fork, and your changes, and make a pull request!
+> If you think there is a resource which you think others would benefit on, fork, add your changes, and make a pull request!
 
 ## The Software Development section consists of :
 
@@ -70,8 +70,8 @@ This collection provides a list of educational resources for Software Engineers.
 # Computer Programming
 <img src="https://image.flaticon.com/icons/png/128/2620/2620900.png" height="60px"/>
 
-> If you think there is a resource which you think others would benefit on, fork, and your changes, and make a pull request!
-
+- > If you think there is a resource which you think others would benefit on, fork, add your changes, and make a pull request!
+-
 ## The Computer Programming section consists of :
 
 ### 1. Learn Python - Here are just 5 from our huge range :
@@ -91,18 +91,20 @@ complete beginners.
 - [GraphQLExplorer](https://lnkd.in/g9vh2bn) - Github GraphQL Explorer 
 - [APIS and documentation](https://lnkd.in/gWjAsSp) - For Github REST APIs, the best resource is the documentation 
 - [Github tutorial](https://youtu.be/BCQHnlnPusY) - Videos to Learn Github, step by step.
+- [KunalKushwaha](https://www.youtube.com/watch?v=apGV9Kg7ics&t=3865s) - Complete Git & Github Course.(0-100) 
 
 ### 3. Learn regular expressions - Here are 2 from our range : 
 
 - [ziishaned-repository](https://github.com/ziishaned/learn-regex) - This is a resource for learning Regular Expressions in many languages.
 - [Regex tutorials](http://regextutorials.com/) - Provides both theory and exercises to learn Regular Expressions.
 
-
+### 4. Learn Solidity Samrt Contract with hardaht - Step by Step code and Video Links : 
+- [GitHub](https://github.com/panacloud-modern-global-apps/defi-dapps-solidity-smart-contracts) - Solidity Smart Contracts: Building DeFi DApps and Protocols for the Ethereum Blockchain
 ## Communities
 
 <img src="https://t4.ftcdn.net/jpg/02/41/60/35/240_F_241603570_MR6B6tQjTuREQC0EIgc7l2KvVNJzsSp5.jpg" height="60px">
 
-> If you think there is a resource which you think others would benefit on, fork, and your changes, and make a pull request!
+> If you think there is a resource which you think others would benefit on, fork, add your changes, and make a pull request!
 
 ## Here is 5 from our huge range...
 
@@ -121,7 +123,7 @@ complete beginners.
 
 <img src="https://image.flaticon.com/icons/png/128/3730/3730087.png" height="60px"> <img src="https://image.flaticon.com/icons/png/128/2096/2096018.png" height="60px">
 
-> If you think there is a resource which you think others would benefit on, fork, and your changes, and make a pull request!
+> If you think there is a resource which you think others would benefit on, fork, add your changes, and make a pull request!
 
 ### 1. Books - Here is 5 from our huge range :
 
@@ -131,11 +133,26 @@ complete beginners.
 - [The Algorithm Design Manual - Skiena](https://www.amazon.com/Algorithm-Design-Manual-Steven-Skiena/dp/1849967202/ref=pd_sbs_7/146-7117112-3214425?pd_rd_w=JNweZ&pf_rd_p=43345e03-9e2a-47c0-9b70-a50aa5ecbd5c&pf_rd_r=YS938S6HF8HDZ3C3VW7T&pd_rd_r=0880b776-764d-4269-88b0-21914e3be232&pd_rd_wg=eUOYw&pd_rd_i=1849967202&psc=1) - One of the most famous algorithm books suggested by CS tutors
 - [Pro Git](https://git-scm.com/book/en/v2) - This book is a comperhensive guide on version control (and it's free!)
 
-### 2. Video Courses - Here are 2 from our range :
+### 2. Video Courses - Here are 3 from our range :
 - [Golang For Absolute Beginners](https://youtube.com/playlist?list=PLf-kTzgXA1gxcQDIoCYxP3kk_fCPZnFXr) - Learn Go Programming language from scratch.
 - [Master Git and GitHub](https://www.youtube.com/playlist?list=PLf-kTzgXA1gx4N5271oljF1S_J8knU_Jc) - Learn Git and GitHub from scratch.
+- [KunalKushwaha](https://www.youtube.com/watch?v=IPvYjXCsTg8&t=3181s) - This the best video i have come across for Computer Networking.(0 -100).
 
 -------------------------------
+
+## Some Essential Tools for Frontend Web Development
+
+
+> If you think there is a resource which you think others would benefit on, fork, add your changes, and make a pull request!
+
+
+- [Chrome Developer Tools](https://developer.chrome.com/devtools) - allow developers access into the internals of their web application, you can edit your HTML and CSS in real-time, or debug your JavaScript, all while viewing a through performance analysis of your website.  
+- [jQuery](https://jquery.com/) - jQuery is a fast, small, and feature-rich JavaScript library. It makes things like HTML document traversal and manipulation, event handling, animation
+
+
+## To see it all, go here: [WebTools](./resources/WebTools.md)
+
+----------------------------------------
 
 
 ## More Resources Are Coming Soon!!! 🚀🚀🚀
@@ -178,6 +195,17 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
   </tr>
   <tr>
     <td align="center"><a href="http://carlosvinimsouza.github.io/"><img src="https://avatars.githubusercontent.com/u/60679101?v=4?s=100" width="100px;" alt=""/><br /><sub><b>CarlosViniMSouza</b></sub></a><br /><a href="#content-CarlosViniMSouza" title="Content">🖋</a></td>
+    <td align="center"><a href="https://github.com/lorezi"><img src="https://avatars.githubusercontent.com/u/20595856?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Lawrence Onaulogho</b></sub></a><br /><a href="#content-lorezi" title="Content">🖋</a></td>
+    <td align="center"><a href="https://github.com/labheshwar"><img src="https://avatars.githubusercontent.com/u/66070272?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Labheshwar Sharma</b></sub></a><br /><a href="#content-labheshwar" title="Content">🖋</a></td>
+    <td align="center"><a href="https://github.com/Ilsa-Naeem"><img src="https://avatars.githubusercontent.com/u/83057022?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Ilsa</b></sub></a><br /><a href="#content-Ilsa-Naeem" title="Content">🖋</a></td>
+    <td align="center"><a href="https://www.linkedin.com/in/ayesha-baloch-53892120a/"><img src="https://avatars.githubusercontent.com/u/90467681?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Ayesha Baloch</b></sub></a><br /><a href="#content-ayeshabaloch123" title="Content">🖋</a></td>
+    <td align="center"><a href="https://github.com/shaggyyy2002"><img src="https://avatars.githubusercontent.com/u/90847875?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Nitin Gouda</b></sub></a><br /><a href="#content-shaggyyy2002" title="Content">🖋</a></td>
+    <td align="center"><a href="https://github.com/root-mrrobot"><img src="https://avatars.githubusercontent.com/u/79943494?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Aaqib J. Khan</b></sub></a><br /><a href="#content-root-mrrobot" title="Content">🖋</a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/MaryaBaloch20"><img src="https://avatars.githubusercontent.com/u/64646421?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Marya Baloch</b></sub></a><br /><a href="#content-MaryaBaloch20" title="Content">🖋</a></td>
+    <td align="center"><a href="https://myself-as-programmer.web.app/"><img src="https://avatars.githubusercontent.com/u/49161541?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Mubashir Ibrahim</b></sub></a><br /><a href="#content-Mubashirsw27" title="Content">🖋</a></td>
+    <td align="center"><a href="https://portfolio1-b3fde.web.app/"><img src="https://avatars.githubusercontent.com/u/57056497?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Muhammad Tayyab</b></sub></a><br /><a href="#content-devtayyab" title="Content">🖋</a></td>
   </tr>
 </table>
 

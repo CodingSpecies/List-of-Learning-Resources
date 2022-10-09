@@ -3,7 +3,7 @@
 
 ### Practice your skills, play games, and prepare for interviews!
 
-> If you think there is a resource which you think others would benefit on, fork, andd your changes, and make a pull request!
+> If you think there is a resource which you think others would benefit on, fork, add your changes, and make a pull request!
 <br>
 
 | Resource Name                                                | Description                                                                               |
@@ -13,7 +13,7 @@
 | [VisuAlgo](https://visualgo.net/en)                          | Visualizing data structures and algorithms through animation.                             |
 | [Leetcode](https://leetcode.com/)                            | Develop programming skills for your next interview.                                       |
 | [FireCode](https://www.firecode.io/)                         | An online coding interview preparation.                                                   |
-| [CodeinGame](https://www.codingame.com/start)                | Learn to code by playing games.                                                           |
+| [CodinGame](https://www.codingame.com/start)                 | Learn to code by playing games.                                                           |
 | [DailyProgrammer](https://www.hackerrank.com/)               | Solutions to programming challenges, peer-reviewed with community feedback.               |
 | [CodeSignal](https://codesignal.com/)                        | Practice programming and land a job                                                       |
 | [Uva](https://onlinejudge.org/)                              | Programming contests with online judging system.                                          |
@@ -41,6 +41,7 @@
 | [PythonChallenge](http://www.pythonchallenge.com/) | A set of riddles that require a little bit of Python programming to be solved. |
 | [Edabit](https://edabit.com/) | A better way to learn programming, you learn to code with 10,000+ interative challenges. |
 | [Code Jam](https://codingcompetitions.withgoogle.com/codejam) | Google’s longest running global coding competition. Code Jam, calls on programmers around the world to solve challenging, algorithmic puzzles against the clock. . |
+| [Hash Code](https://codingcompetitions.withgoogle.com/hashcode) | Google’s team-based programming competition, Hash Code, allows you to share your skills and connect with other coders as you work together to solve a problem modeled off a real Google engineering challenge! |
 | [Kick Start](https://codingcompetitions.withgoogle.com/kickstart) | Kick Start offers coders around the world the chance to develop and hone their programming skills through online-hosted competition rounds. |
 | [Reply Challenges](https://challenges.reply.com/tamtamy/home.action) | A series of challenges created by Replyers and open to anyone who loves technology and online competitions. |
 | [Pramp](https://www.pramp.com/#/) | Practice Mock Interviews & Coding Challenges. |
@@ -59,3 +60,5 @@
 | [Codeabbey](https://www.codeabbey.com/) | Collection of programming problems to practice solving, learn to program and code, and win certificates. |
 | [Kattis](https://open.kattis.com/) | Here you can find hundreds of programming problems to solve. |
 | [Screeps](https://screeps.com/) | It's an open-source game for programmers, wherein the core mechanic is programming your units' AI. You control your colony by writing JavaScript. |
+| [Exercism](https://exercism.org/) | Exercism is a coding challenge website that offers 3100+ challenges spanning 52 different programming languages. |
+| [ProjectEuler](https://projecteuler.net/) | Project Euler provides a large collection of challenges in the domain of computer science and mathematics. |
